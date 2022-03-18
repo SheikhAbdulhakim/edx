@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #00838f;
+}
+h2 {
+    color: #00838f;
+    font-size: small;
+}
+p {
+    background-color: rgb(188, 201, 216);
+}
+button {
+    background-color: #00838f;
+    font-size: large;
+    text-transform: uppercase;
+}
